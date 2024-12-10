@@ -1,0 +1,34 @@
+﻿---------------------------------------Search Summary----------------------------------------
+Search Keyword		: tpfdb01
+
+Search Type		: Simple Text Search
+
+Search File Type	: MAC
+
+Search Systems		: ALL
+
+No of Files found	: 4
+
+Case Sensitive Selected	: false
+
+Exclude Inactive programs	: true
+
+Exclude Obsolete programs	: true
+
+-------------------------------------------RESULTS--------------------------------------------
+1 in0raa.mac(pss)
+---------------------
+45: SW00RBV SETC '#TPFDB01'     FILE ALGORITHM
+----------------------------------------------------------------------------------------------
+2 pr901s.mac(pss)
+---------------------
+44: SW00RBV SETC '#TPFDB01'     FILE ALGORITHM
+----------------------------------------------------------------------------------------------
+3 rb50mt.mac(pss)
+---------------------
+27: SW00RBV SETC  '#TPFDB01'    FILE ALGORITHM
+----------------------------------------------------------------------------------------------
+4 st031w.mac(pss)
+---------------------
+20: SW00RBV SETC '#TPFDB01'     FILE ALGORITHM
+----------------------------------------------------------------------------------------------
